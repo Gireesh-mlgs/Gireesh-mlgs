@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Exploring emerging technologies and building experimental applications in fintech and AI<br><br>👯 I’m looking to collaborate on<br>Early-stage tech projects, especially in AI, blockchain, and scalable software systems<br><br>🤝 I’m looking for help with<br>System design, research, and turning technical concepts into practical applications<br><br>🌱 I’m currently learning<br>Artificial Intelligence & Machine Learning, blockchain fundamentals, and modern backend development<br><br>💬 Ask me about<br>AI/ML basics, web development, problem-solving with technology, and student tech projects<br><br>⚡ Fun fact<br>I like working on problems that mix technology, simplicity, and real-world impact
+🔭 I’m currently working on<br>Exploring emerging technologies and building experimental applications in fintech and AI<br><br>👯 I’m looking to collaborate on<br>Early-stage tech projects, especially in AI, blockchain, and scalable software systems<br><br>🤝 I’m looking for help with<br>System design, research, and turning technical concepts into practical applications<br><br>🌱 I’m currently learning<br>Artificial Intelligence & Machine Learning, blockchain fundamentals, and modern backend development<br><br>⚡ Fun fact<br>I like working on problems that mix technology, simplicity, and real-world impact
 
 
 ## 🌐 Socials:
